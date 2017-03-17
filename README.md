@@ -8,4 +8,4 @@
 ### git push origin master
 ### git status
 ### git pull
-![GitHub (http://cde.3.depor.pe/ima/0/0/1/4/4/144203.jpg)]
+![GitHub](http://cde.3.depor.pe/ima/0/0/1/4/4/144203.jpg)
